@@ -4,7 +4,6 @@
 module.exports = {
     'FLASHBOMBS_EN_US': {
             'kirin': 'inn normal, enraged and fatigued state the kirin is not vulnerable to flash bombs.',
-            'kirin': 'inn normal, enraged and fatigued state the kirin is not vulnerable to flash bombs.',
             'oroshi kirin': 'inn normal, enraged and fatigued state the oroshi kirin is not vulnerable to flash bombs.',
             'gypceros': 'inn normal, enraged and fatigued state the gypceros is not vulnerable to flash bombs.',
             'purple gypceros': 'inn normal, enraged and fatigued state the purple gypceros is not vulnerable to flash bombs.',
