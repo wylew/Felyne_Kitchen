@@ -2,7 +2,7 @@
 /* eslint-disable max-len */
 /* eslint quote-props: ['error', 'consistent']*/
 module.exports = {
-    'FLASHBOMBS_EN_US': { tets
+    'FLASHBOMBS_EN_US': { 
             'kirin': 'inn normal, enraged and fatigued state the kirin is not vulnerable to flash bombs.',
             'oroshi kirin': 'inn normal, enraged and fatigued state the oroshi kirin is not vulnerable to flash bombs.',
             'gypceros': 'inn normal, enraged and fatigued state the gypceros is not vulnerable to flash bombs.',
